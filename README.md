@@ -1,9 +1,13 @@
-E-Commerce Analysis Dashboard
+# E-Commerce Analysis Dashboard ✨
 
-Setup Environment
-- Buat virtual environment
-- Install seluruh library yang dibutuhkan yang dapat dilihat pada file requirement.txt
+## Setup environment
+```
+conda create --name ecommerce python=3.9
+conda activate ecommerce
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
 
-Menjalankan Dashboard Streamlit
-- Masuk hingga ke folder \dashboard
-- Ketik: streamlit run dashboard.py
+## Run steamlit app
+```
+streamlit run Dashboard.py
+```
