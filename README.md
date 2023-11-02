@@ -16,4 +16,4 @@ streamlit run Dashboard.py
 ```
 https://tio-e-commerce-analysis.streamlit.app
 ```
-![Page1](Deployed dashboard.PNG)
+![Page1](Deployed dashboard.png)
