@@ -15,5 +15,5 @@ streamlit run Dashboard.py
 ## Tautan dashboard deployment
 ```
 https://tio-e-commerce-analysis.streamlit.app
+![Deployed dashboard](Deployed-dashboard.png)
 ```
-![Page1](Deployed dashboard.png)
