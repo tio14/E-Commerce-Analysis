@@ -7,7 +7,12 @@ conda activate ecommerce
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run Dashboard.py
+```
+
+## Tautan dashboard deployment
+```
+https://tio-e-commerce-analysis.streamlit.app/]
 ```
