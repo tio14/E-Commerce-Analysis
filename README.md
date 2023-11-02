@@ -12,7 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run Dashboard.py
 ```
 
-## Tautan dashboard deployment
+## Tautan deployment dashboard
 ```
 https://tio-e-commerce-analysis.streamlit.app
 ```
