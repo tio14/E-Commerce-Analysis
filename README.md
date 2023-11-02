@@ -1,4 +1,4 @@
-# E-Commerce Analysis Dashboard ✨
+# E-Commerce Analysis Dashboard
 
 ## Setup environment
 ```
